@@ -10,7 +10,7 @@
     4.Закон всемирного тяготения & $F=G\frac{m_{1}m_{2}}{r^2}$ & Ньютон, 1687\\
     5.Квадратный корень из минус единицы & $i^2=-1$ & Эйлер,1750\\
     6.Формула Эйлера для многогранников & $\mathrm{V}-\mathrm{E}+\mathrm{F}=2$ &Эйлер, 1751\\
-    7.Нормальное распередление& $\phi \left(x\right)=\frac{1}{\sqrt{2\pi p}}{C}^{\frac{{\left(x-p\right)}^{2}}{2{p}^{2}}}$ &Гаусс, 1810\\
+    7.Нормальное распередление& $\phi \left(x\right)=\frac{1}{\sqrt{2\pi p}}{\exp}^{\frac{{\left(x-p\right)}^{2}}{2{p}^{2}}}$ &Гаусс, 1810\\
     8.Волновое уравнение & $\frac{{\partial }^{2}u}{\partial {t}^{2}}={C}^{2}\frac{{\partial }^{2}U}{\partial {x}^{2}}$ &Д’Аламбер, 1746\\
     9.Преобразование Фурье& $f(\omega)=\frac{1}{\sqrt{2\pi}} \int\limits_{-\infty}^\infty f(x) e^{-ix\omega} d{x} $ &Фурье, 1822\\
     10.Уравнение Навье-Стокса & $p(\frac{\partial v}{\partial t}+\bf v \cdot \nabla \bf v) = - \nabla p + \nabla \cdot \bf T + \bf f$ &Навье,Стокс, 1845\\
